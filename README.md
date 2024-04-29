@@ -18,7 +18,6 @@ Not: `harita.cub`, başlatmak istediğiniz harita dosyasının adıdır.
 ## Kullanım
 Cub3D, `.cub` uzantılı bir harita dosyasını alarak çalışır. Harita dosyası, oyun dünyasının oluşturulması ve ayarlarının belirlenmesi için kullanılır. Örnek bir harita dosyası aşağıdaki gibi olabilir:
 ```
-R 1920 1080
 NO ./textures/wall_north.xpm
 SO ./textures/wall_south.xpm
 WE ./textures/wall_west.xpm
