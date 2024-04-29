@@ -3,7 +3,7 @@ Bu proje, 42 (Fransız eğitim kurumu) programının bir parçası olarak sunula
 ## Başlangıç
 Bu projeyi klonlamak için aşağıdaki komutu kullanabilirsiniz:
 ```shell
-git clone https://github.com/sizin-kullanici-adi/cub3d.git
+git clone https://github.com/BurakDeyirmenci/cub3d.git
 ```
 ## Kurulum
 Projeyi çalıştırmak için `make` komutunu kullanarak bir Makefile oluşturun:
